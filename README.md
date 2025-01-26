@@ -1,23 +1,67 @@
-<h1 align="center">Hi 👋, I'm Umar Mehmood</h1>
-<h3 align="center">👋 Hi, I'm Umar Mehmood! As a seasoned Data Analyst, I specialize in Python programming, Power BI, Excel, and SQL. My expertise lies in transforming raw data into actionable insights through advanced analytics and visualization techniques. 🔍 Expertise Highlights: 📊 Data Analysis: Advanced statistical analysis and visualization. 🐍 Python Programming: Data manipulation and automation. 📈 Power BI: Interactive dashboards and reports. 📑 Excel Mastery: Advanced functions and macros. 🗄️ SQL Proficiency: Efficient data querying and management.</h3>
+<div align="center">
+  <!-- Replace with your video link -->
+  <video autoplay loop muted playsinline height="200">
+    <source src="your-video-url.mp4" type="video/mp4">
+  </video>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umar885&label=Profile%20views&color=0e75b6&style=flat" alt="umar885" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umar885" alt="umar885" /></a> </p>
+<div align="center">
+  <h1>Hi there 👋, I'm Umar Mehmood</h1>
+  <p>Welcome to my GitHub profile! 🚀 I am passionate about Data Analysis, Business Intelligence, and creating impactful visualizations.</p>
+</div>
 
-<p align="left"> <a href="https://twitter.com/umarmeh12214006" target="blank"><img src="https://img.shields.io/twitter/follow/umarmeh12214006?logo=twitter&style=for-the-badge" alt="umarmeh12214006" /></a> </p>
+---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+  <h2>🔗 Social Media Links</h2>
+  <table>
+      <tr>
+          <td><a href="https://www.linkedin.com/in/umar-mehmood-147224294/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a></td>
+          <td><a href="mailto:umarmehmood885@gmail.com"><img src="https://img.shields.io/badge/Gmail-Profile-red?style=for-the-badge&logo=gmail" alt="Gmail"/></a></td>
+      </tr>
+      <tr>
+          <td><a href="https://github.com/Umar885"><img src="https://img.shields.io/badge/GitHub-Profile-green?style=for-the-badge&logo=github" alt="GitHub"/></a></td>
+          <td><a href="https://twitter.com/UmarMeh12214006"><img src="https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter" alt="Twitter"/></a></td>
+      </tr>
+      <tr>
+          <td><a href="https://www.kaggle.com/umarmehmood"><img src="https://img.shields.io/badge/Kaggle-Profile-orange?style=for-the-badge&logo=kaggle" alt="Kaggle"/></a></td>
+          <td><a href="https://medium.com/@umarmehmood885"><img src="https://img.shields.io/badge/Medium-Profile-black?style=for-the-badge&logo=medium" alt="Medium"/></a></td>
+      </tr>
+  </table>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/umarmeh12214006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umarmeh12214006" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/umar-mehmood-147224294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/umar-mehmood-147224294/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/umarmehmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/umarmehmood" height="30" width="40" /></a>
-<a href="https://medium.com/@umarmehmood885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@umarmehmood885" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-
+<div align="center">
+  <h2>👨‍💻 About Me</h2>
+  <p align="left">
+    I am a Data Analyst from Pakistan.<br><br>
+    - 🔭 I’m working on creating insightful data-driven dashboards.<br>
+    - 📚 I’m currently learning advanced SQL and Data Modeling.<br>
+    - ⚡ In my free time, I enjoy coding, reading about analytics trends, and networking with professionals.
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>🛠 Languages and Tools</h2>
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQL logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
+  </div>
+</div>
+
+---
+
+<div align="center">
+  <h2>🔥 My GitHub Stats</h2>
+  <img src="https://streak-stats.demolab.com?user=Umar885&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
