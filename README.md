@@ -1,7 +1,3 @@
-<div align="center">
-  <!-- Replace with an animated coding GIF -->
-  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation">
-</div>
 
 ---
 
@@ -11,6 +7,11 @@
 </div>
 
 ---
+
+<div align="center">
+  <!-- Replace with an animated coding GIF -->
+  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation">
+</div>
 
 <div align="center">
   <h2>🔗 Social Media Links</h2>
@@ -30,15 +31,18 @@
   </table>
 </div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=umar885&label=Profile%20views&color=0e75b6&style=flat" alt="umar885" /> </p>
 ---
 
 <div align="center">
   <h2>👨‍💻 About Me</h2>
   <p align="left">
     I am a Data Analyst from Pakistan.<br><br>
-    - 🔭 I’m working on creating insightful data-driven dashboards.<br>
-    - 📚 I’m currently learning advanced SQL and Data Modeling.<br>
-    - ⚡ In my free time, I enjoy coding, reading about analytics trends, and networking with professionals.
+    - 🔭 I’m currently focused on developing impactful, data-driven dashboards to uncover actionable insights.<br>
+    - 📚 I’m enhancing my expertise in Python, SQL, Power BI, MS Excel, and Data Modeling to excel in data analysis and business intelligence roles.<br>
+    - ⚡ During my free time, I engage in coding, exploring the latest analytics trends, and building connections within the professional community.<br>
+    - 🤝 I prioritize effective communication, collaboration, and problem-solving to drive results and contribute to team success.
+    
   </p>
 </div>
 
