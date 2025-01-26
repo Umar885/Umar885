@@ -1,8 +1,6 @@
 <div align="center">
-  <!-- Replace with your video link -->
-  <video autoplay loop muted playsinline height="200">
-    <source src="your-video-url.mp4" type="video/mp4">
-  </video>
+  <!-- Replace with an animated coding GIF -->
+  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation">
 </div>
 
 ---
@@ -31,7 +29,6 @@
       </tr>
   </table>
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=umar885&label=Profile%20views&color=0e75b6&style=flat" alt="umar885" /> </p>
 
 ---
 
@@ -54,8 +51,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQL logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="Excel logo" />
   </div>
 </div>
 
@@ -65,4 +61,5 @@
   <h2>🔥 My GitHub Stats</h2>
   <img src="https://streak-stats.demolab.com?user=Umar885&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
+
 
