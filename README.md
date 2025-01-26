@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Hi there 👋, I'm Umar Mehmood</h1>
+  <h1>Hi  👋, I'm Umar Mehmood</h1>
   <p>Welcome to my GitHub profile! 🚀 I am passionate about Data Analysis, Business Intelligence, and creating impactful visualizations.</p>
 </div>
 
@@ -54,7 +54,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="Excel logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI logo" />
+    <img src="powerbi logo 1.png" height="40" alt="Power BI logo" />
 
 
   </div>
